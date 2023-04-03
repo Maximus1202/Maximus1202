@@ -5,6 +5,11 @@
 
 -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+
 <h1>
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
   ✨ Welcome to my GitHub profile! ✨
@@ -65,6 +70,13 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Maximus1202&theme=dracula&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
 --- 
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=Maximus1202&style=flat-square&color=blue" alt=""/>
