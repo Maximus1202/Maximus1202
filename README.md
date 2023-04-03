@@ -1,4 +1,4 @@
-### Hi there 👋
+### ✨ Welcome to my GitHub profile! ✨ 
 
 <!--
 **Maximus1202/Maximus1202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maximus1202)](https://github.com/ryo-ma/github-profile-trophy)
