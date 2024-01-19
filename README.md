@@ -25,7 +25,7 @@
 
 ### :man_technologist: About Me :
 
-- :telescope: Currnetly I'm 3-rd year Computer Science student.
+- :telescope: B.Sc Computer Science graduate!
 
 - :seedling: Interested in WEB and Fullstack development.
 
